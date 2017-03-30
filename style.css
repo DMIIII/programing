@@ -1,0 +1,127 @@
+.navigation-bar {
+  display: inline-block;
+}
+
+.shoe {
+width: 600px;
+padding-left: 250px;
+position:relative;
+top: 50px;
+}
+
+.section1 {
+  background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ff0c7d+0,ea7019+100 */
+background: #ff0c7d; /* Old browsers */
+background: -moz-linear-gradient(left,  #ff0c7d 0%, #ea7019 100%);
+/* FF3.6-15 */
+background: -webkit-linear-gradient(left,  #ff0c7d 0%,#ea7019 100%);
+ /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right,  #ff0c7d 0%,#ea7019 100%);
+ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0c7d',
+ endColorstr='#ea7019',GradientType=1 ); /* IE6-9 */;
+height: 450px
+
+}
+
+.nav-right {
+padding-left: 1049px;
+}
+
+.tiny-shoe {
+  width: 50px;
+}
+
+.text-at-shoe {
+  position: relative;
+  bottom: 300px;
+  left: 250px
+}
+
+.right-container {
+  position:relative;
+  left: 1000px;
+  bottom: 235px;
+ color: white;
+}
+span {
+  line-height:25px;
+  display:block;
+  width:425px;
+  word-wrap:break-word;
+  position: relative;
+}
+.spring-summer {
+  position: relative;
+  bottom:15px
+}
+.buy-button {
+  position: relative;
+  left:1100px;
+  bottom:225px;
+}
+.buy-button {
+  border-radius: 2px
+  margin: 10px;
+  padding: 15px;
+  width: 80px;
+  height: auto;
+  background-color: white;
+  border-radius: 5px;
+}
+.price {
+  position: relative;
+  left:1005px;
+  bottom:255px;
+  color: white
+}
+h2 {
+  position: relative;
+  left: 150px;
+  top: 80px;
+}
+h3 {
+  position: relative;
+  left: 150px;
+  top: 105px;
+}
+.content-here1 {
+  position: relative;
+  top: 90px;
+  left: 150px;
+}
+.content-here2 {
+  position: relative;
+  top: 100px;
+  left: 150px;
+}
+.content-here3 {
+  position: relative;
+  top: 180px;
+  left: 150px;
+}
+.find-size {
+  position: relative;
+  top: 180px;
+  right: 44px;
+}
+.what-customers {
+  position: relative;
+  top: 240px;
+  right: 410px;
+}
+body {
+  font-family: sans-serif;
+}
+.customers-review {
+  position: relative;
+  top: 240px;
+  left: 150px;
+}
+.message-banner {
+  height: 50px;
+  background-color: green;
+  position: relative;
+  top: 240px;
+  /*left: 150px;*/
+}
